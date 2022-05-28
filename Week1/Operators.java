@@ -1,7 +1,7 @@
 package Week1;
 
 import java.util.Scanner;
-
+//Finding relation between two integers.(a and b).
 public class Operators {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
