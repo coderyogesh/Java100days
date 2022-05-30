@@ -16,3 +16,9 @@ Day - 2 - INPUT OUTPUT
 Day - 3 - JAVA FUNDAMENTALS
 
 - Fundamental Programming Structure in Java
+
+Day - 4 - SELECTION STATEMENTS
+
+- control statements,selection statements, switch statements.
+
+Day - 5 - ITERATION STATEMENTS
