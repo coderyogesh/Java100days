@@ -1,4 +1,4 @@
-package Week1;
+package Week1.SelectionStatements;
 
 import java.util.Scanner;
 //Rahul and Tina want to know in how many boxes can they keep their toys such that both the toys are in the same box.
