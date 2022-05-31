@@ -1,4 +1,4 @@
-package Week1.SelectionStatements;
+package Week1;
 
 import java.util.Scanner;
 //Bablu and Dablu are traveling at train. This time they are traveling without their parents.

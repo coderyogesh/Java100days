@@ -1,4 +1,4 @@
-package Week1.SelectionStatements;
+package Week1;
 
 import java.util.Scanner;
 //Check if a number is divisible by 10 and multiply the number by 2 to make it divisible by 10 , if not possible return -1.

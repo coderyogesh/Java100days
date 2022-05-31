@@ -1,4 +1,4 @@
-package Week1.SelectionStatements;
+package Week1;
 
 import java.util.Scanner;
 //Find the maximum number of blocks of dimension 2*1 that can be placed in a board of dimension entered by user.

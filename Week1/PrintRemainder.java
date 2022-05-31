@@ -1,4 +1,4 @@
-package Week1.JavaFundamentalsCode;
+package Week1;
 //Write a program to take a number as input from the user and print the remainder when the no is divided by 10.
 
 import java.util.Scanner;

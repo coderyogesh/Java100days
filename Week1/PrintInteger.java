@@ -1,4 +1,4 @@
-package Week1.InputOutputCode;
+package Week1;
 
 import java.util.Scanner;
 
