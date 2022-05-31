@@ -1,7 +1,7 @@
 package Week1.IterationStatements;
 
 import java.util.Scanner;
-//Program to Print If a Number is a perfect number or not.(True/False)
+//Program to Print If a Number is a perfect number or not (True/False).
 public class PerfectNumber {
     public static void main(String[] args) {
         Scanner sc =new Scanner(System.in);
