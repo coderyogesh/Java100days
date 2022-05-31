@@ -1,4 +1,4 @@
-package Week1;
+package Week1.InputOutputCode;
 
 public class FirstProgram {
     public static void main(String[] args) {

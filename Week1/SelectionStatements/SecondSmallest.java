@@ -1,4 +1,4 @@
-package Week1;
+package Week1.SelectionStatements;
 
 import java.util.Scanner;
 
