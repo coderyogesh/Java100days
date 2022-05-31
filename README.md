@@ -22,3 +22,12 @@ Day - 4 - SELECTION STATEMENTS
 - control statements,selection statements, switch statements.
 
 Day - 5 - ITERATION STATEMENTS
+
+- Iteration Statements
+- Nested Loops 
+
+Day - 6 - OBJECTS & CLASSES
+
+- Objects and classes
+- Constructors in java
+- This keyword
