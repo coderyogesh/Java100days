@@ -31,3 +31,7 @@ Day - 6 - OBJECTS & CLASSES
 - Objects and classes
 - Constructors in java
 - This keyword
+
+WEEK - 2
+
+Day - 1 - ARRAYS
