@@ -35,3 +35,6 @@ Day - 6 - OBJECTS & CLASSES
 WEEK - 2
 
 Day - 1 - ARRAYS
+
+- Arrays Overview
+- 1-D Arrays
